@@ -21,6 +21,7 @@ body{
 #navbar{
   background-color: #e36bae;
   color: #fff;
+  position: fixed;
 }
 
 #navbar ul{
