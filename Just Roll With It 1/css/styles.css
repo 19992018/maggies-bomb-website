@@ -3,6 +3,8 @@ body{
   background-color: #FFDCDC;
   margin: 0px;
 /*  padding: 7% 15%;*/
+    font-size: calc(15px + 0.390625vw);
+
 
 }
 
